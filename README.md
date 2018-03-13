@@ -1,3 +1,3 @@
 # HUMAN FACE CLASSIFICATION USING DEEP LEARNING TECHNIQUES.
-  Codes are posted here.
+  Codes for the project are posted here.
   
