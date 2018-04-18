@@ -1,0 +1,19 @@
+2d.py - for training 2-d neural network
+
+CNN.ipynb - for training basic CNN framework
+
+predict.py - for predicting the basic CNN framework
+
+vggtrain.py - for training the vgg16 framework
+
+vggtest.py - for predicting the vgg16 framework
+
+visulizations.py - for visualizing the inner layers and weights.
+
+
+.ipynb are Jupyter notebooks correspondingly.
+
+
+XceptionNet.ipynb - for training and predicting the Xception framework
+
+opencvFacedetection.py - for face detection in a image.
