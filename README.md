@@ -5,12 +5,14 @@
   visualizationsEx.py - for visualizing the conv and max pool layers for a given image.
   
 # AUTHOR
-Veda Vikas(vic006)
+Veda Vikas(vic006) Aditya(kaiser1997)
 
 # Libraries Used
 Keras
 MatplotLib
 scikitlearn
 numpy
+google collab
+
 
 
